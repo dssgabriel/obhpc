@@ -2,4 +2,6 @@
 target/
 
 # Files to ignore
+*.matx
+*.png
 
